@@ -23,6 +23,6 @@ And now here i am! :tada:
    - :cloud: Native
    - ... and anything in between!
 
-_A note on my repostories: All repositories that i've created here on GitHub shall be compared to tattoos, they serve as a reminder of the past. Most of the time they haven't age that well but since they're a part of me and my journey i've decided to let them be. :relaxed:_ 
+_A note on my repostories: All repositories that i've created here on GitHub shall be compared to tattoos, they serve as a reminder of the past. And, as some tattoos, they haven't aged that well but since they're a part of me and my journey i've decided to let them be. :relaxed:_ 
 
 [![Mikael Johansson's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mikejoh&count_private=true&showicons=true)]()
