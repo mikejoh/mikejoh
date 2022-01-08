@@ -1,16 +1,27 @@
-### Hi there 👋
+### :cloud:
 
-<!--
-**mikejoh/mikejoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!
 
-Here are some ideas to get you started:
+My name is Mikael and i'm currently working as a Backend Developer (Go), in the past i've worked in a variety of roles ranging from Network to DevOps Engineer. I've always been very interested in programming and have always found that part (of any job) the most fun. And now here i am!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud Native tools/technologies and OSS, centered around Kubernetes, is something i love working with and will continue doing in one way or the other. At the moment most of the time as a consumer and occasionally as a contributor.
+
+ - :computer: I'm currently working on various Go based projects both personally (private) and professionally.
+ - :bulb: Currently learning:
+   - More of Go.
+   - A tiny bit of :crab:.
+   - Frontend (React and some GraphQL)
+ - 💬 Ask me about:
+   - Kubernetes
+   - Observability
+   - Go in general
+   - Backend development in Go
+   - ... and anything in between!
+ - :heavy_exclamation_mark:
+   - I'm from :sweden: + :poland:;
+   - i use the :paintbrush: a lot, i'm all about visualizing things;
+   - and i love :skier:
+
+_A note on my repostories: All repositories that i've created here on GitHub shall be compared to tattoos, they serve as a reminder of the past. Most of the time they haven't age that well and since they're a part of me and my journey i've decided to let them be as-is._ 
+
+[![Mikael Johansson's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mikejoh&count_private=true&showicons=true)]()
