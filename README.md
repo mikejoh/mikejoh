@@ -1,6 +1,4 @@
-### :cloud: 
-
-Welcome!
+### Hi! :cloud: 
 
 My name is Mikael and i'm currently working as a Backend Developer (Go), in the past i've worked in a variety of roles ranging from Network to DevOps Engineer. I've always been very interested in programming and have always found that part (of any job) the most fun. And now here i am!
 
@@ -9,12 +7,12 @@ Cloud Native tools/technologies and OSS, centered around Kubernetes, is somethin
  - :heavy_exclamation_mark: About me:
    - I'm from :sweden: + :poland:.
    - I use the :paintbrush: and :pencil2: a lot, i'm all about visualizing things;
-   - and i love :skier:
+   - and i love :skier:.
  - :computer: I'm currently working on various Go based projects both personally (private) and professionally.
  - :bulb: Currently learning:
    - More of Go.
    - A tiny bit of :crab:.
-   - Frontend (React and some GraphQL)
+   - Frontend (React and some GraphQL).
  - 💬 Ask me about:
    - Kubernetes
    - Observability
