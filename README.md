@@ -4,7 +4,7 @@ My name is Mikael and i'm currently working as a **Backend Developer (Go)**, in 
 
 And now here i am! :tada:
 
-Cloud Native tools/technologies and OSS, centered around Kubernetes, is also something i love working with and will continue to do in one way or the other. At the moment more as a user/consumer and occasionally as a contributor.
+:cloud: Native tools/technologies and OSS, centered around Kubernetes, is also something i love working with and will continue to do in one way or the other. At the moment more as a user/consumer and occasionally as a contributor.
 
  - :heavy_exclamation_mark: About me:
    - I'm from :sweden: and :poland:.
@@ -20,7 +20,7 @@ Cloud Native tools/technologies and OSS, centered around Kubernetes, is also som
    - Observability
    - Go in general
    - Backend development in Go
-   - :cloud:
+   - :cloud: Native
    - ... and anything in between!
 
 _A note on my repostories: All repositories that i've created here on GitHub shall be compared to tattoos, they serve as a reminder of the past. Most of the time they haven't age that well but since they're a part of me and my journey i've decided to let them be. :relaxed:_ 
