@@ -1,4 +1,4 @@
-### Hi! :cloud: 
+### Hi! :wave: 
 
 My name is Mikael and i'm currently working as a Backend Developer (Go), in the past i've worked in a variety of roles ranging from Network to DevOps Engineer. I've always been very interested in programming and have always found that part (of any job) the most fun. And now here i am!
 
@@ -18,6 +18,7 @@ Cloud Native tools/technologies and OSS, centered around Kubernetes, is somethin
    - Observability
    - Go in general
    - Backend development in Go
+   - :cloud:
    - ... and anything in between!
 
 _A note on my repostories: All repositories that i've created here on GitHub shall be compared to tattoos, they serve as a reminder of the past. Most of the time they haven't age that well and since they're a part of me and my journey i've decided to let them be as-is._ 
