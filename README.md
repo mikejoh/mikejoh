@@ -1,6 +1,6 @@
 ### Hi! :wave: 
 
-My name is Mikael and i'm currently working as a Backend Developer (Go), in the past i've worked in a variety of roles ranging from Network to DevOps Engineer. I've always been very interested in programming and have always found that part (of any job) the most fun. And now here i am!
+My name is Mikael and i'm currently working as a **Backend Developer (Go)**, in the past i've worked in a variety of roles ranging from Network to DevOps Engineering. I've always been very interested in programming and have always found that part (of any job) the most fun. And now here i am! :tada:
 
 Cloud Native tools/technologies and OSS, centered around Kubernetes, is something i love working with and will continue doing in one way or the other. At the moment most of the time as a consumer and occasionally as a contributor.
 
