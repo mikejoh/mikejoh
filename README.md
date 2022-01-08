@@ -20,7 +20,7 @@ And now here i am! :tada:
    - Observability
    - Go in general
    - Backend development in Go
-   - :cloud: Native
+   - :cloud: Native stuff!
    - ... and anything in between!
 
 _A note on my repostories: All repositories that i've created here on GitHub shall be compared to tattoos, they serve as a reminder of the past. And, as some tattoos, they haven't aged that well but since they're a part of me and my journey i've decided to let them be. :relaxed:_ 
