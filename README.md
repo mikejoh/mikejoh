@@ -13,13 +13,12 @@ My name is Mikael and i'm currently working as a **Backend Developer (Go)**, in 
    - More of Go.
    - A tiny bit of :crab:.
    - Frontend (React and some GraphQL).
- - 💬 Ask me about:
-   - Kubernetes
-   - Observability
+ - 💬 Interests:
    - Go in general
    - Backend development in Go
-   - :cloud: Native stuff!
-   - ... and anything in between!
+   - Kubernetes
+   - Observability
+   - :cloud: Native + OSS tools and technologies
  - ❗Other:
    - I've done two tour of duties in the Kubernetes release team, during the `v1.19` and `v1.20` release cycles.
 
