@@ -14,7 +14,7 @@ My name is Mikael and i'm currently working as a **Backend Developer (Go)**, in 
    - A tiny bit of :crab:.
    - Frontend (React and some GraphQL).
  - 💬 Interests:
-   - Go in general
+   - Programming and hacking away on things!
    - Backend development in Go
    - Kubernetes
    - Observability
