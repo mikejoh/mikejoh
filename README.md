@@ -5,7 +5,7 @@ My name is Mikael and i'm currently working as a **Backend Developer (Go)**, in 
 :cloud: Native tools/technologies and OSS, centered around Kubernetes, is also something i :blue_heart: working with. At the moment more as a user/consumer but occasionally as a contributor.
 
  - :question: About me:
-   - I'm from :sweden: and :poland:.
+   - I'm from :sweden:/:poland:.
    - I use the :paintbrush: and :pencil2: a lot, i'm all about visualizing things;
    - and i love :skier:.
  - :computer: I'm currently working on various Go based projects both personally (private) and professionally.
