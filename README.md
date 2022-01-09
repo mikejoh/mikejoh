@@ -2,7 +2,7 @@
 
 My name is Mikael and i'm currently working as a **Backend Developer (Go)**, in the past i've worked in a variety of roles ranging from Network to DevOps Engineering. I've always been very interested in programming and have always found that part (of any job) the most fun!
 
-:cloud: Native tools/technologies and OSS, centered around Kubernetes, is also something i :blue_heart: working with and will continue to do in one way or the other. At the moment more as a user/consumer and occasionally as a contributor.
+:cloud: Native tools/technologies and OSS, centered around Kubernetes, is also something i :blue_heart: working with. At the moment more as a user/consumer but occasionally as a contributor.
 
  - :question: About me:
    - I'm from :sweden: and :poland:.
