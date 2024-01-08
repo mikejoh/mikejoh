@@ -10,3 +10,4 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
 _Welds on clouds!_
 
 ![mikejoh's GitHub Stats](https://github.com/mikejoh/github-stats/blob/master/generated/overview.svg)
+![mikejoh's Language Stats](https://github.com/mikejoh/github-stats/blob/master/generated/languages.svg)
