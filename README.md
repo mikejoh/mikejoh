@@ -1,4 +1,6 @@
-![image](https://github.com/mikejoh/mikejoh/assets/899665/09ff5ae9-a366-4e10-90bb-d0473973b835)
+<p align="center">
+   <img src="https://github.com/mikejoh/mikejoh/assets/899665/09ff5ae9-a366-4e10-90bb-d0473973b835" alt="welder"/>
+</p>
 
 Hi! :wave:
 
