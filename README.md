@@ -12,7 +12,7 @@ Hi! :wave:
 
 My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies. 
 
-I spend a lot of time welding and plumbing, using code, deep down in (cloud) platforms.
+I spend a lot of time welding and plumbing, using code, in (cloud) platforms.
 
 Me:
   - I'm from :sweden:/:poland:.
