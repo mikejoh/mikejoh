@@ -9,11 +9,15 @@
 
 Hi! :wave:
 
-My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies. 
+My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies. I feel strongly about giving back to OSS communities, by diving deep into projects, participating in different ways or just tidying up typos in documentation.
 
-I usually spend my days welding and plumbing in (cloud) platforms.
+Highlights ✨:
+  - Docs shadow in the Kubernetes **v1.19** release cycle
+  - Enhancements shadow in the Kubernetes **v1.20** release cycle
 
-Me:
+If i'm not doing any of the above i spend a lot of time welding and plumbing in (cloud) platforms. 👨🏻‍🏭
+
+About me ❗️:
   - I'm from :sweden:/:poland:.
   - I use the :paintbrush: and :pencil2: a lot, i'm all about visualizing things;
   - and i love :skier:.
