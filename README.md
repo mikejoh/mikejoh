@@ -7,17 +7,19 @@
    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-Hi! :wave:
+Hi! 👋🏻
 
-My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies. I feel strongly about giving back to OSS communities, by diving deep into projects, participating in different ways or just tidying up typos in documentation.
+My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies. 
 
-Highlights ✨:
+I feel strongly about giving back to OSS communities, by diving deep into projects, participating in different ways or just tidying up typos in documentation.
+
+Highlights ✨
   - Docs shadow in the Kubernetes **v1.19** release cycle
   - Enhancements shadow in the Kubernetes **v1.20** release cycle
 
 If i'm not doing any of the above i spend a lot of time welding and plumbing in (cloud) platforms. 👨🏻‍🏭
 
-About me ❗️:
+About me ❗️
   - I'm from :sweden:/:poland:.
   - I use the :paintbrush: and :pencil2: a lot, i'm all about visualizing things;
   - and i love :skier:.
