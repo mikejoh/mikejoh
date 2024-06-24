@@ -16,6 +16,7 @@ I feel strongly about giving back to OSS communities, by diving deep into projec
 Highlights ✨
   - Docs shadow in the Kubernetes **v1.19** release cycle
   - Enhancements shadow in the Kubernetes **v1.20** release cycle
+  - Started the first Cloud Native focused meetup in Gothenburg in January of 2018
 
 If i'm not doing any of the above i spend a lot of time welding and plumbing in (cloud) platforms. 👨🏻‍🏭
 
