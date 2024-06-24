@@ -26,7 +26,7 @@ About me ❗️
 
 <p align="center">
 <!--START_SECTION:badges-->
-![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)
+[CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)
 <!--END_SECTION:badges-->
 </p>
 
