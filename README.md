@@ -25,6 +25,11 @@ About me ❗️
   - and i love :skier:.
 
 <p align="center">
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+</p>
+
+<p align="center">
    <img src="https://github.com/mikejoh/github-stats/blob/master/generated/overview.svg", alt="stats-overview" />
    <img src="https://github.com/mikejoh/github-stats/blob/master/generated/languages.svg", alt="language-state" />
 </p>
