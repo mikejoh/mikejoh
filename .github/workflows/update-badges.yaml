@@ -11,10 +11,9 @@ jobs:
   update-readme:
     name: Update README with badges
     runs-on: ubuntu-latest
+
     steps:
       - name: Badges
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: mikael-johansson-2
-          CREDLY_SORT: RECENT
-          BADGE_SIZE: 55
