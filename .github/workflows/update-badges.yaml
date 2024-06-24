@@ -1,19 +1,19 @@
-name: Update badges
+#name: Update badges
 
-on: 
-  push:
-    branches:
-      - main
-  #  schedule:
-    #    - cron: "0 0 * * *"
+#on: 
+#  push:
+#    branches:
+#      - main
+#  schedule:
+#    - cron: "0 0 * * *"
 
-jobs:
-  update-readme:
-    name: Update README with badges
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Badges
-        uses: pemtajo/badge-readme@main
-        with:
-          CREDLY_USER: mikael-johansson-2
+#jobs:
+#  update-readme:
+#    name: Update README with badges
+#    runs-on: ubuntu-latest
+#
+#    steps:
+#      - name: Badges
+#        uses: pemtajo/badge-readme@main
+#        with:
+#          CREDLY_USER: mikael-johansson-2
