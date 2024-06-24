@@ -25,7 +25,7 @@ About me ❗️
   - and i love :skier:.
 
 <p align="center">
-![CKA](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)
+<img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" />
 </p>
 
 <p align="center">
