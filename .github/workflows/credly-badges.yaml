@@ -1,0 +1,19 @@
+name: 'Credly Badges'
+
+on: 
+  push:
+    branches:
+      - main
+#  schedule:
+#    - cron: "0 0 * * *"
+
+jobs:
+  credly-badges:
+    name: Update README with badges
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update
+        uses: mikejoh/credly-badges@main
+        with:
+          CREDLY_USERNAME: mikael-johansson-2
