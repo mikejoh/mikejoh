@@ -9,29 +9,27 @@
 
 Hi! 👋🏻
 
-My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies. 
+My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies.
 
-I feel strongly about giving back to OSS communities, by diving deep into projects, participating in different ways or just tidying up typos in documentation.
-
-Highlights ✨
+**Highlights** ✨
   - Docs shadow in the Kubernetes **v1.19** release cycle
   - Enhancements shadow in the Kubernetes **v1.20** release cycle
   - Started the first Cloud Native focused meetup in Gothenburg in January of 2018
 
 If i'm not doing any of the above i spend a lot of time welding and plumbing in (cloud) platforms. 👨🏻‍🏭
 
-About me ❗️
+**About me** ❗️
   - I'm from :sweden:/:poland:.
   - I use the :paintbrush: and :pencil2: a lot, i'm all about visualizing things;
   - and i love :skier:.
 
-Certifications:
+**Certifications** 🏅
 <p align="center">
 
 <!--START_BADGES:badges-->
 <!--END_BADGES:badges-->
 
-Stats:
+**Stats** 📈
 <p align="center">
    <img src="https://github.com/mikejoh/github-stats/blob/master/generated/overview.svg", alt="stats-overview" />
    <img src="https://github.com/mikejoh/github-stats/blob/master/generated/languages.svg", alt="language-state" />
