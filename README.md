@@ -28,7 +28,7 @@ About me ❗️
 Certifications:
 <p align="center">
 
-<!-- START_BADGES:badges-->
+<!--START_BADGES:badges-->
 <!--END_BADGES:badges-->
 
 Stats:
