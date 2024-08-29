@@ -27,8 +27,8 @@ If i'm not doing any of the above i spend a lot of time welding and plumbing in 
 <p align="center">
 
 <!--START_BADGES:badges-->
-<img src="" alt="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" />
-<img src="" alt="https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" />
+<img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="" />
+<img src="https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="" />
 <!--END_BADGES:badges-->
 
 </p>
