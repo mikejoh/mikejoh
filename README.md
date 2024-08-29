@@ -18,7 +18,7 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
 
 If i'm not doing any of the above i spend a lot of time welding and plumbing in (cloud) platforms. 👨🏻‍🏭
 
-**About me** ❗️
+**About me**❗️
   - I'm from :sweden:/:poland:.
   - I use the :paintbrush: and :pencil2: a lot, i'm all about visualizing things;
   - and i love :skier:.
