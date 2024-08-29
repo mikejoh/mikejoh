@@ -27,8 +27,9 @@ About me ❗️
 
 Certifications:
 <p align="center">
-<img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" />
-</p>
+
+<!-- START_BADGES:badges-->
+<!--END_BADGES:badges-->
 
 Stats:
 <p align="center">

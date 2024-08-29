@@ -1,11 +1,11 @@
-name: 'Credly Badges'
+name: "Credly Badges"
 
-on: 
+on:
   push:
     branches:
       - main
-#  schedule:
-#    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   credly-badges:
@@ -17,3 +17,5 @@ jobs:
         uses: mikejoh/credly-badges@main
         with:
           CREDLY_USERNAME: mikael-johansson-2
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "Update credly badges!"
