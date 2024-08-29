@@ -32,6 +32,7 @@ If i'm not doing any of the above i spend a lot of time welding and plumbing in 
 <!--END_BADGES:badges-->
 
 </p>
+
 **Stats** 📈
 <p align="center">
    <img src="https://github.com/mikejoh/github-stats/blob/master/generated/overview.svg", alt="stats-overview" />
