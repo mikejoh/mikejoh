@@ -25,10 +25,12 @@ About me ❗️
   - I use the :paintbrush: and :pencil2: a lot, i'm all about visualizing things;
   - and i love :skier:.
 
+Certifications:
 <p align="center">
 <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" />
 </p>
 
+Stats:
 <p align="center">
    <img src="https://github.com/mikejoh/github-stats/blob/master/generated/overview.svg", alt="stats-overview" />
    <img src="https://github.com/mikejoh/github-stats/blob/master/generated/languages.svg", alt="language-state" />
