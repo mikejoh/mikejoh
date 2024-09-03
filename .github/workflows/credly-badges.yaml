@@ -9,7 +9,7 @@ on:
 
 jobs:
   credly-badges:
-    name: Update README with badges
+    name: "Update README with Credly badges"
     runs-on: ubuntu-latest
 
     steps:
