@@ -11,6 +11,21 @@ Hi! 👋🏻
 
 My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies.
 
+**Profiles** 😎
+
+<a href="https://stackoverflow.com/users/1547081/mikejoh">
+<img align="left" alt="Mikael's Stackoverflow" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/johansson-mikael">
+<img align="left" alt="Mikael's LinkedIn" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-512.png" />
+</a>
+
+<a href="https://twitter.com/subnjet">
+<img align="left" alt="Mikael's Twitter" width="32px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+<br><br>
+
 **Highlights** ✨
   - Docs shadow in the Kubernetes **v1.19** release cycle
   - Enhancements shadow in the Kubernetes **v1.20** release cycle
