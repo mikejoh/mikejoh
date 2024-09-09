@@ -11,7 +11,7 @@ Hi! 👋🏻
 
 My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies.
 
-**Profiles** 😎
+**Social** 😎
 
 <a href="https://stackoverflow.com/users/1547081/mikejoh">
 <img align="left" alt="Mikael's Stackoverflow" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" />
