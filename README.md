@@ -42,12 +42,12 @@ Other than that i spend a lot of time welding, wiring and plumbing in (cloud) pl
 <p align="center">
 
 <!--START_BADGES:badges-->
-<img src="https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="" />
-<img src="https://images.credly.com/size/100x100/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="" />
-<img src="https://images.credly.com/size/100x100/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="" />
-<img src="https://images.credly.com/size/100x100/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="" />
-<img src="https://images.credly.com/size/100x100/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="" />
-<img src="https://images.credly.com/size/340x340/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="" />
+<img src="https://images.credly.com/size/128x128/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="" />
+<img src="https://images.credly.com/size/128x128/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="" />
+<img src="https://images.credly.com/size/128x128/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="" />
+<img src="https://images.credly.com/size/128x128/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="" />
+<img src="https://images.credly.com/size/128x128/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="" />
+<img src="https://images.credly.com/size/128x128/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="" />
 <!--END_BADGES:badges-->
 
 
