@@ -6,6 +6,9 @@
    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
    <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" />
+   <br>
+   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mikejoh">
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/mikejoh">
 </p>
 
 Hi! 👋🏻
@@ -28,6 +31,7 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
 <br><br>
 
 **Highlights** ✨
+
   - Docs shadow in the Kubernetes **v1.19** release cycle
   - Enhancements shadow in the Kubernetes **v1.20** release cycle
   - Started the first Cloud Native focused meetup in Gothenburg in January of 2018
@@ -35,13 +39,14 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
 Other than that i spend a lot of time welding, wiring and plumbing in (cloud) platforms! 👨🏻‍🏭
 
 **About me**❗️
+
   - I'm from :sweden:/:poland:.
   - I use the :paintbrush: and :pencil2: a lot, i'm all about visualizing things;
   - and i love :skier:.
 
 **Certifications** 🏅
-<p align="center">
 
+<p align="center">
 <!--START_BADGES:badges-->
 <img src="https://images.credly.com/size/128x128/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="" />
 <img src="https://images.credly.com/size/128x128/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="" />
@@ -50,11 +55,10 @@ Other than that i spend a lot of time welding, wiring and plumbing in (cloud) pl
 <img src="https://images.credly.com/size/128x128/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="" />
 <img src="https://images.credly.com/size/128x128/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="" />
 <!--END_BADGES:badges-->
-
-
 </p>
 
 **Stats** 📈
+
 <p align="center">
    <img src="https://github.com/mikejoh/github-stats/blob/master/generated/overview.svg", alt="stats-overview" />
    <img src="https://github.com/mikejoh/github-stats/blob/master/generated/languages.svg", alt="language-state" />
