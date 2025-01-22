@@ -44,7 +44,7 @@ Other than that i spend a lot of time welding, wiring and plumbing in (cloud) pl
   - I use the :paintbrush: and :pencil2: a lot, i'm all about visualizing things;
   - and i love :skier:.
 
-**Certifications** 🏅
+**Certifications and badges** 🏅
 
 <p align="center">
 <!--START_BADGES:badges-->
@@ -54,6 +54,8 @@ Other than that i spend a lot of time welding, wiring and plumbing in (cloud) pl
 <img src="https://images.credly.com/size/128x128/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="" />
 <img src="https://images.credly.com/size/128x128/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="" />
 <img src="https://images.credly.com/size/128x128/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="" />
+<img src="https://images.credly.com/size/128x128/images/ea61e2b7-e182-4fee-88d7-acfd1c5a1259/blob" alt="" />
+
 <!--END_BADGES:badges-->
 </p>
 
