@@ -62,9 +62,3 @@ Other than that i spend a lot of time welding, wiring and plumbing in (cloud) pl
 
 <!--END_BADGES:badges-->
 </p>
-
-**Stats** 📈
-
-<p align="center">
-   <img src="https://github.com/mikejoh/github-stats/blob/master/generated/languages.svg", alt="language-state" />
-</p>
