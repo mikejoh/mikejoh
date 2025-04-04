@@ -29,9 +29,6 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
 <img align="left" alt="Mikael's LinkedIn" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-512.png" />
 </a>
 
-<a href="https://twitter.com/subnjet">
-<img align="left" alt="Mikael's Twitter" width="32px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
 <br><br>
 
 **Highlights** ✨
