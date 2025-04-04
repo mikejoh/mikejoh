@@ -29,6 +29,10 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
 <img align="left" alt="Mikael's LinkedIn" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-512.png" />
 </a>
 
+<a href="https://dev.to/mikejoh">
+<img align="left" alt="Mikael's DEV profile" width="32px" src="https://github.com/user-attachments/assets/7a30d7d9-f042-444e-ab7e-156448dab375" />
+</a>
+
 <br><br>
 
 **Highlights** ✨
