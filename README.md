@@ -47,6 +47,7 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
   - Docs shadow in the Kubernetes **v1.19** release cycle
   - Enhancements shadow in the Kubernetes **v1.20** release cycle
   - Started the first Cloud Native focused meetup in Gothenburg in January of 2018
+  - Co-organizing the Gothenburg CNCF meetup chapter
 
 Other than that i spend a lot of time welding, wiring and plumbing in (cloud) platforms! 👨🏻‍🏭
 
