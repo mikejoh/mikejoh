@@ -68,6 +68,7 @@ Other than that i spend a lot of time welding, wiring and plumbing in (cloud) pl
 <img src="https://images.credly.com/size/128x128/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="" />
 <img src="https://images.credly.com/size/128x128/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="" />
 <img src="https://images.credly.com/size/128x128/images/ea61e2b7-e182-4fee-88d7-acfd1c5a1259/blob" alt="" />
-
+<img src="https://images.credly.com/size/128x128/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="" />
+   
 <!--END_BADGES:badges-->
 </p>
