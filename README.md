@@ -7,8 +7,6 @@
    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
    <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" />
    <br>
-   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mikejoh">
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/mikejoh">
 </p>
 
 Hi! 👋🏻
@@ -64,4 +62,10 @@ Other than that i spend a lot of time welding, wiring and plumbing in (cloud) pl
 <img src="https://images.credly.com/size/128x128/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA"
    
 <!--END_BADGES:badges-->
+</p>
+
+**Stats** 📈
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=mikejoh&show_icons=true" alt="GitHub stats" />
 </p>
