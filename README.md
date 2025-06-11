@@ -59,8 +59,8 @@ Other than that i spend a lot of time welding, wiring and plumbing in (cloud) pl
 <img src="https://images.credly.com/size/128x128/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="" />
 <img src="https://images.credly.com/size/128x128/images/ea61e2b7-e182-4fee-88d7-acfd1c5a1259/blob" alt="" />
 <img src="https://images.credly.com/size/128x128/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="" />
-<img src="https://images.credly.com/size/128x128/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA"
-   
+<img src="https://images.credly.com/size/128x128/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA" />
+<img src="https://images.credly.com/size/128x128/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA" />
 <!--END_BADGES:badges-->
 </p>
 
