@@ -11,9 +11,7 @@
 
 Hi! 👋🏻
 
-My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies.
-
-I'm a seasoned مهندس!
+My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools, technologies. مهندس!
 
 **Helm charts 🗒️**
 
