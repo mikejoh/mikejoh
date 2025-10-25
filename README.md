@@ -11,13 +11,13 @@
 
 Hi! 👋🏻
 
-My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools, technologies. مهندس!
+My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies! I usually spend a lot of time welding, wiring and plumbing in (cloud) platforms! 👨🏻‍🏭
 
 **Helm charts 🗒️**
 
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/mikejoh)](https://artifacthub.io/packages/search?repo=mikejoh)
 
-**Social** 😎
+**Social 😎**
 
 <a href="https://stackoverflow.com/users/1547081/mikejoh">
 <img align="left" alt="Mikael's Stackoverflow" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" />
@@ -38,8 +38,6 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
   - Enhancements shadow in the Kubernetes **v1.20** release cycle
   - Started the first Cloud Native focused meetup in Gothenburg in January of 2018
   - Co-organizing the Gothenburg CNCF meetup chapter
-
-Other than that i spend a lot of time welding, wiring and plumbing in (cloud) platforms! 👨🏻‍🏭
 
 **About me**❗️
 
@@ -80,6 +78,15 @@ Other than that i spend a lot of time welding, wiring and plumbing in (cloud) pl
 
 **Stats** 📈
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=mikejoh&show_icons=true" alt="GitHub stats" />
-</p>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mikejoh&show_icons=true&hide_title=true&hide=prs,issues&locale=en&rank_icon=title" 
+    alt="Mikael Johansson's GitHub Stats" 
+    style="margin-right: 10px;"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikejoh&layout=compact&hide_title=true&locale=en" 
+    alt="Most Used Languages" 
+  />
+</div>
