@@ -50,22 +50,33 @@ Other than that i spend a lot of time welding, wiring and plumbing in (cloud) pl
 **Certifications and badges** 🏅
 
 <p align="center">
-<!--START_BADGES:badges-->
-<img src="https://images.credly.com/size/128x128/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" />
-<img src="https://images.credly.com/size/128x128/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="" />
-<img src="https://images.credly.com/size/128x128/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" />
-<img src="https://images.credly.com/size/128x128/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="" />
-<img src="https://images.credly.com/size/128x128/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS" />
-<img src="https://images.credly.com/size/128x128/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="" />
-<img src="https://images.credly.com/size/128x128/images/ea61e2b7-e182-4fee-88d7-acfd1c5a1259/blob" alt="" />
-<img src="https://images.credly.com/size/128x128/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="" />
-<img src="https://images.credly.com/size/128x128/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA" />
-<img src="https://images.credly.com/size/128x128/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA" />
-<img src="https://images.credly.com/size/128x128/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA" />
-<img src="https://images.credly.com/size/128x128/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA" />
-<img src="https://images.credly.com/size/128x128/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA" />
-<!--END_BADGES:badges-->
+  <!--START_BADGES:badges-->
+  <div align="center" style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 14px;
+    max-width: 700px;
+    justify-items: center;
+    margin: auto;
+  ">
+    <img src="https://images.credly.com/size/128x128/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/ea61e2b7-e182-4fee-88d7-acfd1c5a1259/blob" alt="" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+  </div>
+  <!--END_BADGES:badges-->
 </p>
+
+
 
 **Stats** 📈
 
