@@ -80,14 +80,5 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
 **Stats** 📈
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mikejoh&show_icons=true&hide_title=true&hide=prs,issues&locale=en&rank_icon=title" 
-    alt="Mikael Johansson's GitHub Stats" 
-    style="margin-right: 10px;"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikejoh&layout=compact&hide_title=true&locale=en" 
-    alt="Most Used Languages" 
-  />
+
 </div>
