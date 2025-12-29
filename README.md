@@ -70,7 +70,8 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
     <img src="https://images.credly.com/size/128x128/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/size/128x128/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/size/128x128/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
-   <img src="https://images.credly.com/size/80x80/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="KCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+   <img src="https://images.credly.com/size/128x128/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="KCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+   <img src="https://images.credly.com/size/128x128/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png" alt="KCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
   </div>
   <!--END_BADGES:badges-->
 </p>
