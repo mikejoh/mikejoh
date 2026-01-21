@@ -77,10 +77,6 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
   <!--END_BADGES:badges-->
 </p>
 
-
-
-**Stats** 📈
-
 <div align="center">
 
 </div>
