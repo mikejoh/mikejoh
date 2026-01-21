@@ -72,6 +72,7 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
     <img src="https://images.credly.com/size/128x128/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
    <img src="https://images.credly.com/size/128x128/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="KCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
    <img src="https://images.credly.com/size/128x128/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png" alt="KCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+   <img width="128" height="128" src="https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="LFCS" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
   </div>
   <!--END_BADGES:badges-->
 </p>
