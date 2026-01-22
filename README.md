@@ -45,10 +45,9 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
   - I use the :paintbrush: and :pencil2: a lot, i'm all about visualizing things;
   - and i love :skier:.
 
-**Certifications and badges** 🏅
+**Certifications** 🏅
 
 <p align="center">
-  <!--START_BADGES:badges-->
   <div align="center" style="
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
@@ -62,21 +61,31 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
     <img src="https://images.credly.com/size/128x128/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/size/128x128/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/size/128x128/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
-    <img src="https://images.credly.com/size/128x128/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
-    <img src="https://images.credly.com/size/128x128/images/ea61e2b7-e182-4fee-88d7-acfd1c5a1259/blob" alt="" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
-    <img src="https://images.credly.com/size/128x128/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="CCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/size/128x128/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/size/128x128/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/size/128x128/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/size/128x128/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/size/128x128/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" alt="CBA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
-   <img src="https://images.credly.com/size/128x128/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="KCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
-   <img src="https://images.credly.com/size/128x128/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png" alt="KCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
-   <img width="128" height="128" src="https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="LFCS" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="KCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png" alt="KCA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img width="128" height="128" src="https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="LFCS" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
   </div>
-  <!--END_BADGES:badges-->
 </p>
 
-<div align="center">
+**Badges** 🏅
 
-</div>
+<p align="center">
+  <div align="center" style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 14px;
+    max-width: 700px;
+    justify-items: center;
+    margin: auto;
+  ">
+    <img src="https://images.credly.com/size/128x128/images/ea61e2b7-e182-4fee-88d7-acfd1c5a1259/blob" alt="CNCF Organizer 2024" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/size/128x128/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+  </div>
+</p>
