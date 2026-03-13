@@ -1,5 +1,6 @@
 <p align="center">
-   <img src="https://github.com/mikejoh/mikejoh/assets/899665/09ff5ae9-a366-4e10-90bb-d0473973b835" alt="welder"/>
+   <!-- <img src="https://github.com/mikejoh/mikejoh/assets/899665/09ff5ae9-a366-4e10-90bb-d0473973b835" alt="welder"/> -->
+   <img width="771" height="659" alt="Calendar" src="https://github.com/user-attachments/assets/f07f1d89-0d16-4995-8b6a-64109e8484c5" />
 </p>
 
 <p align="center">
