@@ -12,7 +12,7 @@
 
 Hi! 👋🏻
 
-My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies! I usually spend a lot of time welding, wiring and plumbing in (cloud) platforms! 👨🏻‍🏭
+My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native tools and technologies! I usually spend a lot of time welding, wiring and plumbing in (cloud) platforms! 👨🏻‍🏭 I'm a professional Senior Day 2 Expert.
 
 **Helm charts 🗒️**
 
