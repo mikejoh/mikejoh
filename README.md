@@ -89,5 +89,6 @@ My name is Mikael and I 💙 Kubernetes and everything related to ☁️ Native 
     <img src="https://images.credly.com/size/128x128/images/ea61e2b7-e182-4fee-88d7-acfd1c5a1259/blob" alt="CNCF Organizer 2024" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/size/128x128/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://images.credly.com/images/1dba0197-1013-4f23-8918-9479f77172d6/blob" alt="Golden Kubestronaut" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://images.credly.com/images/249c7e95-9417-4ce6-8420-c0ebdd6e19de/blob" alt="CiliumCon Speaker 2026" style="width:100px;height:100px;border-radius:12px;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
   </div>
 </p>
